@@ -1,0 +1,21 @@
+﻿
+<div style="width:400px" class="modal-dialog modal-lg">
+    <div style="width:300px" class="modal-content">
+        <form class="push" method="post">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 class="modal-title"><strong>Delete</strong></h3>
+            </div>
+            <div id="myAlert">
+            </div>
+
+            <div class="modal-body">
+                are you sure you want to delete?
+            </div>
+            <div class="modal-footer">
+                <button type="button" data-dismiss="modal" class=" btn btn-effect-ripple btn-success"><i class="fa"></i>Cancel</button>
+                <button type="submit" onclick="Delete(@ViewBag.Id)" class="btn btn-effect-ripple btn-danger"><i class="fa"></i>Delete</button>
+            </div>
+        </form>
+    </div>
+</div>

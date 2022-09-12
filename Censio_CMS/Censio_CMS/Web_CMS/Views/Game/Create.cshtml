@@ -1,0 +1,107 @@
+﻿@model Censio_CMS.Models.GameModel
+@{ ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <button type="button" onclick="location.href='@Url.Action("Index", "Game")'" class="btn btn-primary" style="float: right; margin: 0; margin-right: 10px; margin-top: 9px; padding: 1px 13px;" data-dismiss="modal" aria-hidden="true">Back</button>
+        <h2><strong>@ViewBag.modelTitle Game</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <form id="form" class="push">
+
+            <div class="modal-body">
+                <div id="myAlert">
+                </div>
+                <div class="loader "> <img src="~/img/Loader.gif" style="height:50px;width:50px" /></div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Select Game</label>
+                            @Html.TextBoxFor(m => m.Id, new { @id = "Id", @style = "display: none;" })
+                            @Html.DropDownListFor(m => m.IdGame, new SelectList(Model.GameList, "Value", "Text"), "", new { @id = "IdGame", @class = "form-control", required = "required", @onchange = "Autofilltext()" })
+
+                        </div>
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Game Name</label>
+                          
+                            @Html.TextBoxFor(m => m.GameName, new { @id = "GameName", @class = "form-control", @Readonly = true })
+
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-sm-6">
+                                <label for="checkout-payment-name">Map Image</label>
+                                @Html.TextBoxFor(m => m.MapImgUrl, new { @id = "MapImgUrl", @style = "display: none;" })
+                                <input type="file" title="search image" class="form-control" id="file" name="file" onchange="show(this)" />
+                            </div>
+                            <div class="col-sm-6">
+                                <img id="map_img" style="height:100px;width:100px;" class="form-control" Style="border:solid" />
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Status</label>
+                            @Html.DropDownListFor(m => m.Status, new List<SelectListItem>
+                                   {
+                                   new SelectListItem{ Text="Active", Value = "A" },
+                                   new SelectListItem{ Text="Deactive", Value = "D" }}, new { @class = "form-control", @style = "width:100%;", @id = "Status" })
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" id="btn" class="btn btn-effect-ripple btn-sm btn-success">Save</button>
+                    <button type="button" onclick="Close();" class="btn btn-effect-ripple btn-sm btn-danger">Cancel</button>
+                </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/Jquery3.5.1.js"></script>
+<script>
+    $(document).ready(function () {
+
+        if ($("#MapImgUrl").val() != "") {
+            $('#map_img').attr('src', $("#MapImgUrl").val());
+        }
+        $('#btn').on('click', function () {
+            debugger;
+            var valid = $("#form").valid();
+            if (valid == true) {
+                AddEdit();
+            }
+        });
+
+        $("#form").validate({
+            rules: {
+
+
+                GameName: "required",
+                Status: "required",
+            },
+            messages: {
+
+
+                GameName: "please Enter GameName",
+                 Status: "Please Select a Status",
+            }
+        })
+    });
+
+
+
+</script>
+<style type="text/css">
+    .loader {
+        display: none;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        margin: -75px 0px 0px -50px;
+    }
+</style>
+
+<script src="~/AppJavascript/Game.js"></script>

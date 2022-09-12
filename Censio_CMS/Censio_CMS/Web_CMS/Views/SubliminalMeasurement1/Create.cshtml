@@ -1,0 +1,116 @@
+﻿@model Censio_CMS.Models.SubliminalMeasurement1Model
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <button type="button" onclick="location.href='@Url.Action("Index", "SubliminalMeasurement1")'" class="btn btn-primary" style="float: right; margin: 0; margin-right: 10px; margin-top: 9px; padding: 1px 13px;" data-dismiss="modal" aria-hidden="true">Back</button>
+        <h2><strong>@ViewBag.modelTitle Game Attemptdata</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <form id="form" class="push">
+
+            <div class="modal-body">
+                <div id="myAlert">
+                </div>
+                <div class="loader "> <img src="~/img/Loader.gif" style="height:50px;width:50px" /></div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+
+                       
+                        <div class="form-group">
+                            <label for="Industry_Name">Game Name</label>
+                            @Html.TextBoxFor(m => m.IdSubliminalMeasurement1, new { @id = "IdSubliminalMeasurement1", @style = "display: none;" })
+                            @Html.DropDownListFor(m => m.IdGame, new SelectList(Model.GameList, "Value", "Text"), "", new { @id = "IdGame", @class = "form-control" })
+
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Industry_Name">Behavior Element</label>
+
+                            @Html.DropDownListFor(m => m.IdBehavior, new SelectList(Model.BehaviorElementNameList, "Value", "Text"), "", new { @id = "IdBehavior", @class = "form-control" })
+
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="password">Subliminal MeasurementName</label>
+                            @Html.TextBoxFor(m => m.SubliminalMeasurementName, new { @id = "SubliminalMeasurementName", @class = "form-control" })
+
+                        </div>
+
+                        <div class="form-group">
+                            <label for="password">Behavior Score</label>
+                            @Html.TextBoxFor(m => m.BehaviorScore, new { @id = "BehaviorScore", @class = "form-control" })
+
+                        </div>
+
+                        
+
+
+
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Status</label>
+                            @Html.DropDownListFor(m => m.Status, new List<SelectListItem>
+                                   {
+                                   new SelectListItem{ Text="Active", Value = "A" },
+                                   new SelectListItem{ Text="Deactive", Value = "D" }}, new { @class = "form-control", @style = "width:100%;", @id = "Status" })
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btn" class="btn btn-effect-ripple btn-sm btn-success">Save</button>
+                <button type="button" onclick="Close();" class="btn btn-effect-ripple btn-sm btn-danger">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/Jquery3.5.1.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+
+        $('#btn').on('click', function () {
+            debugger;
+            var valid = $("#form").valid();
+            if (valid == true) {
+                AddEdit();
+            }
+        });
+
+        $("#Acclimateform").validate({
+            //rules: {
+
+
+            //    Url: "required",
+            //    IsActive: "required",
+
+            //},
+            //messages: {
+
+
+            //    Url: "Please Uploade Image ",
+            //    IsActive: "Please Select a Status",
+            //}
+        })
+    });
+
+
+
+</script>
+<style type="text/css">
+    .loader {
+        display: none;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        margin: -75px 0px 0px -50px;
+    }
+</style>
+<script src="~/AppJavascript/SubliminalMeasurement1.js"></script>

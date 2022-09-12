@@ -1,0 +1,72 @@
+﻿
+@{ var hrefURL = Censio_CMS.Startup.GethrefURL();}
+@model IEnumerable<Domain.Entities.TblGame4LevelMaster>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <h2><strong> @ViewBag.PageName</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <button type="button" onclick="location.href='@Url.Action("Create", "Game4LevelMaster")'" class="btn btn-sm btn-primary"><i class="fa fa-plus"></i>Add</button>
+        <table id="example-datatable" class="table table-vcenter table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Sr No.</th>
+                    <th class="text-center">Level Name</th>
+                    <th class="text-center">Level WordCount</th>
+                    <th class="text-center">Level Time Required</th>
+                    <th class="text-center">Level Bonus Points</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Updated Date Time</th>
+                    <th class="text-center">Actions</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.IdLevel)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.LevelName)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.LevelWordcount)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.LevelTimerequired)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.LevelBonuspts)</td>
+                      
+                        @if (item.IdLevelStatus == "A")
+                        {
+                            <td class="text-center">Active</td>
+                        }
+                        else
+                        {
+                            <td class="text-center"> DeActive</td>
+                        }
+                       <td class="text-center">@Html.DisplayFor(modelItem => item.UpdateDatetime)</td>
+
+                        <td class="text-center">
+                            <div class="btn-group">
+                                @Html.ActionLink("Edit", "Edit", new { id = item.IdLevel }, new { @title = "Edit", @class = "glyphicon glyphicon-pencil" })
+                                @*<a href="javascript:void(0)" onclick="GetAddEdit(@item.Id_Industry);" data-toggle="tooltip" title="Edit" class="btn btn-effect-ripple btn-xs btn-success"><i class="material-icons">create</i></a>*@
+                                @if (item.IdLevelStatus == "A")
+                                {
+                                    @Html.ActionLink("DeActivate", "DeActivate", new { id = item.IdLevel }, new { @title = "DeActivate", @class = "glyphicon glyphicon-pencil" })
+                                }
+                                else
+                                {
+                                    @Html.ActionLink("Activate", "Activate", new { id = item.IdLevel }, new { @title = "DeActivate", @class = "glyphicon glyphicon-pencil" })
+                                }
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/AppJavascript/Game4LevelMaster.js"></script>

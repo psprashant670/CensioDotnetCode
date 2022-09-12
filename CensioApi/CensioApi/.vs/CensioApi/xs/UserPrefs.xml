@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6263044D-6D33-44C5-969C-04618F527524}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataAccess.EFCore/Data/db_censio_betaContext.cs">
+    <Files>
+      <File FileName="WebApi/Controllers/Game1GoldMineTreasureMapController.cs" Line="285" Column="8" />
+      <File FileName="Domain/Entities/TblGame1UserLog.cs" />
+      <File FileName="DataAccess.EFCore/Data/db_censio_betaContext.cs" Line="625" Column="38" />
+      <File FileName="WebApi/appsettings.json" />
+      <File FileName="WebApi/Startup.cs" />
+      <File FileName="WebApi/Program.cs" />
+      <File FileName="WebApi/Properties/launchSettings.json" />
+      <File FileName="Domain/Entities/TblGame5UserLog.cs" />
+      <File FileName="DataAccess.EFCore/Repositories/GenericRepository.cs" />
+      <File FileName="DataAccess.EFCore/UnitOfWorks/UnitOfWork.cs" />
+      <File FileName="Domain/Entities/TblAvatar.cs" />
+      <File FileName="Domain/Models/APIRequestModel.cs" />
+      <File FileName="Domain/Interfaces/IGenericRepository.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,102 @@
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\TGC_Projects\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\TGC_Projects\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\TGC_Projects\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\TGC_Projects\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Acclimate_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Acclimate_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\TGC\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC\MDM_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\TGC\MDM_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\MDM_CMS_Pro\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\TGC Production CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,165 @@
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.deps.json
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.json
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.dev.json
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.dll
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.pdb
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csprojAssemblyReference.cache
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfoInputs.cache
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfo.cs
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CoreCompileInputs.cache
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CopyComplete
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+E:/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.genruntimeconfig.cache
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.deps.json
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.json
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.dev.json
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csprojAssemblyReference.cache
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfoInputs.cache
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfo.cs
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CopyComplete
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+/Users/apple/Downloads/TGC_Projects_Api/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.genruntimeconfig.cache
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.deps.json
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.json
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.runtimeconfig.dev.json
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csprojAssemblyReference.cache
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfoInputs.cache
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.AssemblyInfo.cs
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CoreCompileInputs.cache
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.csproj.CopyComplete
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.dll
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.pdb
+/Users/apple/Downloads/CensioApi/CensioApi/DataAccess.EFCore/obj/Debug/netcoreapp3.1/DataAccess.EFCore.genruntimeconfig.cache
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\Raj Lakhwani\Downloads\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 28-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 29-05-2022 Game2\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 31-05-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 12-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 19-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 25-06-2022\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\CensioApi\Censio 30-06-2022\CensioApi\CensioApi\CensioApi\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache

@@ -1,0 +1,83 @@
+﻿@model Domain.Entities.TblGameMaster
+@{ ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <button type="button" onclick="location.href='@Url.Action("Index", "GameMaster")'" class="btn btn-primary" style="float: right; margin: 0; margin-right: 10px; margin-top: 9px; padding: 1px 13px;" data-dismiss="modal" aria-hidden="true">Back</button>
+        <h2><strong>@ViewBag.modelTitle Game</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <form id="form" class="push">
+
+            <div class="modal-body">
+                <div id="myAlert">
+                </div>
+                <div class="loader "> <img src="~/img/Loader.gif" style="height:50px;width:50px" /></div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+
+
+                        <div class="form-group">
+                            <label for="Industry_Name">Game Name</label>
+                            @Html.TextBoxFor(m => m.IdGame, new { @id = "IdGame", @style = "display: none;" })
+                            @Html.TextBoxFor(m => m.GameName, new { @id = "GameName", @class = "form-control" })
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" id="btn" class="btn btn-effect-ripple btn-sm btn-success">Save</button>
+                    <button type="button" onclick="Close();" class="btn btn-effect-ripple btn-sm btn-danger">Cancel</button>
+                </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/Jquery3.5.1.js"></script>
+<script>
+    $(document).ready(function () {
+
+        $('#btn').on('click', function () {
+            debugger;
+            var valid = $("#form").valid();
+            if (valid == true) {
+                AddEdit();
+            }
+        });
+
+        $("#form").validate({
+            rules: {
+
+
+                GameName: "required",
+
+            },
+            messages: {
+
+
+                GameName: "please Enter GameName,
+
+            }
+        })
+    });
+
+
+
+</script>
+<style type="text/css">
+    .loader {
+        display: none;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        margin: -75px 0px 0px -50px;
+    }
+</style>
+
+<script src="~/AppJavascript/GameMaster.js"></script>

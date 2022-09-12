@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Domain.Game4DataEntites
+{
+    public partial class TblAvatar
+    {
+        public int IdAvatar { get; set; }
+        public string Url { get; set; }
+        public int? IdOrganization { get; set; }
+        public string IsActive { get; set; }
+        public DateTime UpdatedDateTime { get; set; }
+        public int? IdCmsUser { get; set; }
+    }
+}

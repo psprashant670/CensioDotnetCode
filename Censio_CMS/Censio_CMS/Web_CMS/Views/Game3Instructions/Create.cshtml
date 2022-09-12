@@ -1,0 +1,222 @@
+﻿@model Censio_CMS.Models.Game3InstructionsModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <button type="button" onclick="location.href='@Url.Action("Index", "Game3Instructions")'" class="btn btn-primary" style="float: right; margin: 0; margin-right: 10px; margin-top: 9px; padding: 1px 13px;" data-dismiss="modal" aria-hidden="true">Back</button>
+        <h2><strong>@ViewBag.modelTitle Game3 Instructions</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <form id="form" class="push">
+
+            <div class="modal-body">
+                <div id="myAlert">
+                </div>
+                <div class="loader "> <img src="~/img/Loader.gif" style="height:50px;width:50px" /></div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                        @*<div class="form-group">
+            <label for="Industry_Name">Game Name</label>
+            @Html.TextBoxFor(m => m.IdFestivalLog, new { @id = "IdFestivalLog", @style = "display: none;" })
+            @Html.DropDownListFor(m => m.GameName, new SelectList(Model.GameName, "Value", "Text"), "", new { @id = "GameName", @class = "form-control" })
+
+        </div>*@
+                        <div class="form-group">
+                            <label for="Industry_Name">Instruction Id</label><label class="text-danger"> * </label>
+                            @Html.TextBoxFor(m => m.IdInstruction, new { @id = "IdInstruction", @class = "form-control", @required = "true" })
+                            @Html.ValidationMessageFor(m => m.IdInstruction, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="Industry_Name">Festival Name</label><label class="text-danger"> * </label>
+                            @Html.TextBoxFor(m => m.IdGameInstructionLog, new { @id = "IdGameInstructionLog", @style = "display: none;" })
+                            @Html.DropDownListFor(m => m.FestivalName, new SelectList(Model.FestivalList, "Value", "Text"), "", new { @id = "FestivalName", @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.FestivalName, " ", new { @class = "text-danger" })
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Instruction Postion</label>
+                            @Html.DropDownListFor(m => m.InstructionPostion, new List<SelectListItem>
+                                   {
+                                   new SelectListItem{ Text="Beginning", Value = "Beginning" },
+                                   new SelectListItem{ Text="End", Value = "End" }}, new { @class = "form-control", @style = "width:100%;", @id = "InstructionPostion" })
+                        </div>
+                        <div class="form-group">
+                            <label for="Industry_Name">Instruction Sequence</label><label class="text-danger"> * </label>
+                            @Html.TextBoxFor(m => m.InstructionSequence, new { @id = "InstructionSequence", @class = "form-control", @required = "true" })
+                            @Html.ValidationMessageFor(m => m.InstructionSequence, " ", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="Industry_Name">Instruction Text</label>
+                            @Html.TextBoxFor(m => m.InstructionText, new { @id = "InstructionText", @class = "form-control" })
+
+                        </div>
+                        <div class="form-group">
+                            <label for="Industry_Name">Instruction Image Path</label>
+                            @Html.TextBoxFor(m => m.InstructionImagepath, new { @id = "InstructionImagepath", @class = "form-control" })
+                        </div>
+                        <div class="form-group">
+                            <label for="checkout-payment-name">Status</label>
+                            @Html.DropDownListFor(m => m.Status, new List<SelectListItem>
+                                   {
+                                   new SelectListItem{ Text="Active", Value = "A" },
+                                   new SelectListItem{ Text="Deactive", Value = "D" }}, new { @class = "form-control", @style = "width:100%;", @id = "Status" })
+                        </div>
+
+                        @*@if (@ViewBag.modelTitle == "Edit")
+        {
+            <div class="form-group">
+                <label for="Industry_Name">Challenge Name</label>
+
+                @Html.DropDownListFor(m => m.IdLevel, new SelectList(Model.ChallengeNameList, "Value", "Text"), "", new { @id = "IdLevel", @class = "form-control" })
+
+            </div>
+        }
+        else
+        {
+            <div class="form-group">
+                <label for="checkout-payment-name">Challenge Name</label>
+                @Html.DropDownListFor(m => m.IdLevel, new SelectList(Enumerable.Empty<SelectListItem>(), "IdLevel", "ChallengeName"), "", new { @id = "IdLevel", @class = "form-control" })
+
+            </div>
+        }*@
+
+
+
+                        @*<div class="form-group">
+            <label for="password">ChallengeCompletedTime1</label>
+            @Html.TextBoxFor(m => m.ChallengeCompletedTime1, new { @id = "ChallengeCompletedTime1", @class = "form-control" })
+
+        </div>
+
+        <div class="form-group">
+            <label for="password">RewardCoinsTime1</label>
+            @Html.TextBoxFor(m => m.RewardCoinsTime1, new { @id = "RewardCoinsTime1", @class = "form-control" })
+
+        </div>
+
+        <div class="form-group">
+            <label for="password">ChallengeCompletedTime2</label>
+            @Html.TextBoxFor(m => m.ChallengeCompletedTime2, new { @id = "ChallengeCompletedTime2", @class = "form-control" })
+
+        </div>
+
+        <div class="form-group">
+            <label for="password">RewardCoinsTime2</label>
+            @Html.TextBoxFor(m => m.RewardCoinsTime2, new { @id = "RewardCoinsTime2", @class = "form-control" })
+
+        </div>
+
+        <div class="form-group">
+            <label for="password">FailAttemptMessage</label>
+            @Html.TextAreaFor(m => m.FailAttemptMessage, new { @id = "FailAttemptMessage", @class = "form-control" })
+
+        </div>
+
+
+
+
+        <div class="form-group">
+            <label for="password">SuccessAttemptMessage</label>
+            @Html.TextAreaFor(m => m.SuccessAttemptMessage, new { @id = "SuccessAttemptMessage", @class = "form-control" })
+
+        </div>*@
+
+
+
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btn" class="btn btn-effect-ripple btn-sm btn-success">Save</button>
+                <button type="button" onclick="Close();" class="btn btn-effect-ripple btn-sm btn-danger">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/Jquery3.5.1.js"></script>
+<script src="~/js/jquery.sumoselect.min.js"></script>
+<link href="~/js/sumoselect.min.css" rel="stylesheet" />
+@*<script>
+        $(document).ready(function () {
+            $('#idbehavior').SumoSelect();
+        }(jQuery));
+
+
+
+    </script>*@
+@*@if (@ViewBag.gameid == 5)
+    {
+        <script>
+            $(document).ready(function () {
+                debugger;
+                var hidValue = $("#hidSelectedOptions").val();
+
+                var selectedOptions = hidValue.split(",");
+                for (var i in selectedOptions) {
+                    var optionVal = selectedOptions[i];
+                    $("select").find("option[value=" + optionVal + "]").prop("selected", "selected");
+                }
+                /*  $("select").multiselect('refresh');*/
+
+
+            });
+        </script>
+    }*@
+
+
+<script>
+    $(document).ready(function () {
+
+
+        $('#btn').on('click', function () {
+            $(window).scrollTop(0);
+            //debugger;
+            var valid = $("#form").valid();
+            if (valid == true) {
+                AddEdit();
+            }
+        });
+
+        //var hidValue = $("#hidSelectedOptions").val();
+
+        //var selectedOptions = hidValue.split(",");
+        //for (var i in selectedOptions) {
+        //    var optionVal = selectedOptions[i];
+        //    $("#idbehavior").find("option[value=" + optionVal + "]").prop("selected", "selected");
+        //}
+
+        //$("#Acclimateform").validate({
+        //    //rules: {
+
+
+        //    //    Url: "required",
+        //    //    IsActive: "required",
+
+        //    //},
+        //    //messages: {
+
+
+        //    //    Url: "Please Uploade Image ",
+        //    //    IsActive: "Please Select a Status",
+        //    //}
+        //})
+    });
+
+
+
+</script>
+
+<style type="text/css">
+    .loader {
+        display: none;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        margin: -75px 0px 0px -50px;
+    }
+</style>
+<script src="~/AppJavascript/Game3Instructions.js"></script>

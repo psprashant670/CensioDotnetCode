@@ -1,0 +1,102 @@
+﻿@model Domain.Entities.TblAvatar
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <button type="button" onclick="location.href='@Url.Action("Index", "Avatar")'" class="btn btn-primary" style="float: right; margin: 0; margin-right: 10px; margin-top: 9px; padding: 1px 13px;" data-dismiss="modal" aria-hidden="true">Back</button>
+        <h2><strong>@ViewBag.modelTitle Avatar</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <form id="form" class="push">
+
+            <div class="modal-body">
+                <div id="myAlert">
+                </div>
+                <div class="loader "> <img src="~/img/Loader.gif" style="height:50px;width:50px" /></div>
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3">
+                       
+                        <div class="form-group">
+                            <div class="col-sm-6">
+                                <label for="checkout-payment-name">Avatar Image</label>
+                                @Html.TextBoxFor(m => m.IdAvatar, new { @id = "IdAvatar", @style = "display: none;" })
+                                @Html.TextBoxFor(m => m.Url, new { @id = "Url", @style = "display: none;" })
+                                <input type="file" title="Upload File" class="form-control" id="file" name="file" onchange="show(this)" />
+                            </div>
+
+                             <div class="col-sm-6">
+                                    <img id="url_img" style="height:100px;width:100px;" class="form-control" Style="border:solid" />
+                                </div>
+                         </div>
+                       
+
+                            <div class="form-group">
+                                <label for="checkout-payment-name">Status</label>
+                                @Html.DropDownListFor(m => m.IsActive, new List<SelectListItem>
+                                       {
+                                       new SelectListItem{ Text="Active", Value = "A" },
+                                       new SelectListItem{ Text="Deactive", Value = "D" }}, new { @class = "form-control", @style = "width:100%;", @id = "IsActive" })
+                            </div>
+
+                       
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btn" class="btn btn-effect-ripple btn-sm btn-success">Save</button>
+                <button type="button" onclick="Close();" class="btn btn-effect-ripple btn-sm btn-danger">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/js/Jquery3.5.1.js"></script>
+
+<script>
+    $(document).ready(function () {
+        if ($("#Url").val() != "") {
+            $('#url_img').attr('src', $("#Url").val());
+        }
+
+
+
+        $('#btn').on('click', function () {
+            debugger;
+            var valid = $("#form").valid();
+            if (valid == true) {
+                AddEdit();
+            }
+        });
+
+        $("#Acclimateform").validate({
+            rules: {
+
+                
+                Url: "required",
+                IsActive: "required",
+
+            },
+            messages: {
+
+              
+                Url: "Please Uploade Image ",
+                IsActive: "Please Select a Status",
+            }
+        })
+    });
+
+
+
+</script>
+<style type="text/css">
+    .loader {
+        display: none;
+        position: absolute;
+        top: 75%;
+        left: 50%;
+        margin: -75px 0px 0px -50px;
+    }
+</style>
+<script src="~/AppJavascript/Avatar.js"></script>

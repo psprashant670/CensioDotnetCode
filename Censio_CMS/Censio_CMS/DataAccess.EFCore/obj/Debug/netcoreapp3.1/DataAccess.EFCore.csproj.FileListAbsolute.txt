@@ -1,0 +1,173 @@
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\RANI\Downloads\RepositoryPattern.WebApi-master (1)\RepositoryPattern.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+E:\TGC_Projects_Api\AcclimateProject_API\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+C:\Users\Admin\Downloads\wetransfer_acclimateproject_api-webapi-master_2021-11-23_0720\AcclimateProject_API.WebApi-master\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csprojAssemblyReference.cache
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+E:\TGC_Projects\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Acclimate_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\Acclimate_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+D:\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC\MDM_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC\MDM_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC Production CMS\MDM_CMS_Pro\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC Production CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.deps.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.runtimeconfig.dev.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.AssemblyReference.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfoInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.AssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.csproj.CopyComplete
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\DataAccess.EFCore\obj\Debug\netcoreapp3.1\DataAccess.EFCore.genruntimeconfig.cache

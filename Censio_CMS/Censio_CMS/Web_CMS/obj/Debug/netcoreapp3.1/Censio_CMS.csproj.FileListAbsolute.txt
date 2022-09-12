@@ -1,0 +1,1069 @@
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.exe
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.deps.json
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.json
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.dev.json
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.AssemblyReference.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfoInputs.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfo.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CoreCompileInputs.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.MvcApplicationPartsAssemblyInfo.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.Manifest.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.xml
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\Censio_CMS.styles.css
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.input.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.output.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorCoreGenerate.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_delete.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Create.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Index.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cache
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cs
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CopyComplete
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.dll
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.pdb
+D:\TGC Production CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.genruntimeconfig.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.exe
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.deps.json
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.json
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.dev.json
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.AssemblyReference.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfoInputs.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.MvcApplicationPartsAssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.Manifest.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.xml
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\Censio_CMS.styles.css
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.input.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.output.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorCoreGenerate.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Festivals\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Festivals\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Instructions\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Instructions\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_delete.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Create.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Index.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cache
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cs
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CopyComplete
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.dll
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.pdb
+F:\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.genruntimeconfig.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.exe
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.deps.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.runtimeconfig.dev.json
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.Design.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\DataAccess.EFCore.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.AssemblyReference.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfoInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.AssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CoreCompileInputs.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.MvcApplicationPartsAssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorAssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.Manifest.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\staticwebassets\Censio_CMS.StaticWebAssets.xml
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\scopedcss\bundle\Censio_CMS.styles.css
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.input.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.TagHelpers.output.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorCoreGenerate.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Avatar\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\BehaviorElement\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game1PuzzleImg\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3FestivalReset\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3FestivalReset\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Festivals\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Festivals\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Instructions\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Instructions\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Levels\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game3Levels\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelImages\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelImages\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelInstructions\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelInstructions\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelMaster\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4LevelMaster\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4WordMaster\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game4WordMaster\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game5Attemptdata\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameAttemptdata\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameChallengelevel\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GameMaster\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Game\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\GuideDialogues\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Organization\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Questions\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Questions\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_delete.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement1\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Create.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\SubliminalMeasurement2\Index.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cache
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.RazorTargetAssemblyInfo.cs
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.Views.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.csproj.CopyComplete
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.dll
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.pdb
+F:\Censio_CMS\July\Censio_CMS\Censio_CMS\Web_CMS\obj\Debug\netcoreapp3.1\Censio_CMS.genruntimeconfig.cache

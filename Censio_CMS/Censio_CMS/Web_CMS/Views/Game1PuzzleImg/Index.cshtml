@@ -1,0 +1,64 @@
+﻿
+@{ var hrefURL = Censio_CMS.Startup.GethrefURL();}
+@model IEnumerable<Censio_CMS.Models.PuzzleGameModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <h2><strong> @ViewBag.PageName</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <button type="button" onclick="location.href='@Url.Action("Create", "Game1PuzzleImg")'" class="btn btn-sm btn-primary"><i class="fa fa-plus"></i>Add</button>
+        <table id="example-datatable" class="table table-vcenter table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Id</th>
+                    <th class="text-center">Challenge Name</th>
+                    <th class="text-center">Row Column </th>
+                    <th class="text-center">Images</th>
+                    <th class="text-center">Answer Sequence</th>
+                    <th class="text-center">Coins</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Date and Time</th>
+                    <th class="text-center">Actions</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.IdPuzzle)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.ChallengeName)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.RowColumn)</td>
+                    <td class="text-center"><img src="@(hrefURL  + item.Images)" alt=" " height=100 width=100 /></td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.AnswerSequence)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.Coins)</td>
+
+                    @if (item.IsActive == "A")
+                    {
+                        <td class="text-center">Active</td>
+                    }
+                    else
+                    {
+                        <td class="text-center"> DeActive</td>
+                    }
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.UpdatedDateTime)</td>
+                    <td class="text-center">
+                        <div class="btn-group">
+                            @Html.ActionLink("Edit", "Edit", new { id = item.IdPuzzle }, new { @title = "Edit", @class = "glyphicon glyphicon-pencil" })
+
+
+                        </div>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/AppJavascript/Game1PuzzleImg.js"></script>

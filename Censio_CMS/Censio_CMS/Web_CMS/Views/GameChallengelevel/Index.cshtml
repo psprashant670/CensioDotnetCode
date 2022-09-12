@@ -1,0 +1,102 @@
+﻿
+@{ var hrefURL = Censio_CMS.Startup.GethrefURL();}
+@model IEnumerable<Censio_CMS.Models.GameChallengelevelModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <h2><strong> @ViewBag.PageName</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <button type="button" onclick="location.href='@Url.Action("Create", "GameChallengelevel")'" class="btn btn-sm btn-primary"><i class="fa fa-plus"></i>Add</button>
+        <table id="GameChallengelevel" class="table table-vcenter table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Id</th>
+                    <th class="text-center">GameName</th>
+                    <th class="text-center">ChallengeName</th>
+                    <th class="text-center">ChallengeSmallImgUrl</th>
+                    <th class="text-center">ChallengeBigImgUrl</th>
+                    <th class="text-center">BigImgText</th>
+                    <th class="text-center">ChallengeIntroMessage</th>
+                    <th class="text-center">BottomCompleteMessage</th>
+                    <th class="text-center">BottomFailMessage</th>
+                    <th class="text-center">ChallengePieceMapImgUrl</th>
+                    <th class="text-center">ChallengePieceMapMsg</th>
+                    <th class="text-center">NotBackingOutMsg</th>
+                    <th class="text-center">AgainPlayCoins</th>
+                    <th class="text-center">AttemptsAllowed</th>
+                    <th class="text-center">AttemptTimer</th>
+                    <th class="text-center">Third GameScore</th>
+                    <th class="text-center">Special Point</th>
+                    <th class="text-center">SuperpowerCoin Game3</th>
+
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Date and Time</th>
+                    <th class="text-center">Actions</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.IdLevel)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.GameName)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.ChallengeName)</td>
+                    <td class="text-center"><img src="@(hrefURL  + item.ChallengeSmallImgUrl)" alt=" " height=100 width=100 /></td>
+                    <td class="text-center"><img src="@(hrefURL + item.ChallengeBigImgUrl)" alt=" " height=100 width=100 /></td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.BigImgText)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.ChallengeIntroMessage)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.BottomCompleteMessage)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.BottomFailMessage)</td>
+                    <td class="text-center"><img src="@(hrefURL + item.ChallengePieceMapImgUrl)" alt=" " height=100 width=100 /></td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.ChallengePieceMapMsg)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.NotBackingOutMsg)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.AgainPlayCoins)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.AttemptsAllowed)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.AttemptTimer)</td>
+
+
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.ThirdGameScore)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.SpecialPoint)</td>
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.SuperpowerCoinGame3)</td>
+                    @if (item.IsActive == "A")
+                    {
+                        <td class="text-center">Active</td>
+                    }
+                    else
+                    {
+                        <td class="text-center"> DeActive</td>
+                    }
+
+                    <td class="text-center">@Html.DisplayFor(modelItem => item.UpdatedDateTime)</td>
+                    <td class="text-center">
+                        <div class="btn-group">
+                            @Html.ActionLink("Edit", "Edit", new { id = item.IdLevel }, new { @title = "Edit", @class = "glyphicon glyphicon-pencil" })
+                            @*<a href="javascript:void(0)" onclick="GetAddEdit(@item.Id_Industry);" data-toggle="tooltip" title="Edit" class="btn btn-effect-ripple btn-xs btn-success"><i class="material-icons">create</i></a>*@
+
+                        </div>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<style type="text/css">
+
+    .truncate {
+        max-width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
+
+
+<script src="~/AppJavascript/GameChallengelevel.js"></script>

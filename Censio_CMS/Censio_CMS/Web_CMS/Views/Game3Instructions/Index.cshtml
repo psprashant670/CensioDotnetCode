@@ -1,0 +1,75 @@
+﻿
+@{ var hrefURL = Censio_CMS.Startup.GethrefURL();}
+@model IEnumerable<Domain.Entities.TblGame3Instructions>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <h2><strong> @ViewBag.PageName</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <button type="button" onclick="location.href='@Url.Action("Create", "Game3Instructions")'" class="btn btn-sm btn-primary"><i class="fa fa-plus"></i>Add</button>
+        <table id="example-datatable" class="table table-vcenter table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Sr No.</th>
+                    <th class="text-center">Instruction Id</th>
+                    <th class="text-center">Festival Name</th>
+                    <th class="text-center">Instruction Postion</th>
+                    <th class="text-center">Instruction Sequence</th>
+                    <th class="text-center">Instruction Text</th>
+                    <th class="text-center">Instruction Image path</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Updated Date Time</th>
+                    <th class="text-center">Actions</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.IdGameInstructionLog)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.IdInstruction)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.FestivalName)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.InstructionPostion)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.InstructionSequence)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.InstructionText)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.InstructionImagepath)</td>
+                        @if (item.Status == "A")
+                        {
+                            <td class="text-center">Active</td>
+                        }
+                        else
+                        {
+                            <td class="text-center"> DeActive</td>
+                        }
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.UpdatedDateTime)</td>
+
+                        <td class="text-center">
+                            <div class="btn-group">
+                                @Html.ActionLink("Edit", "Edit", new { id = item.IdGameInstructionLog }, new { @title = "Edit", @class = "glyphicon glyphicon-pencil" })
+                                @*<a href="javascript:void(0)" onclick="GetAddEdit(@item.Id_Industry);" data-toggle="tooltip" title="Edit" class="btn btn-effect-ripple btn-xs btn-success"><i class="material-icons">create</i></a>*@
+                                @if (item.Status == "A")
+                                {
+                                    @Html.ActionLink("DeActivate", "DeActivate", new { id = item.IdGameInstructionLog }, new { @title = "DeActivate", @class = "glyphicon glyphicon-pencil" })
+                                }
+                                else
+                                {
+                                    @Html.ActionLink("Activate", "Activate", new { id = item.IdGameInstructionLog }, new { @title = "DeActivate", @class = "glyphicon glyphicon-pencil" })
+                                }
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/AppJavascript/Game3Instructions.js"></script>

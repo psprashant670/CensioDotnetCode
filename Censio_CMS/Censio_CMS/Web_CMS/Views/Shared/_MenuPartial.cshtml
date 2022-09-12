@@ -1,0 +1,29 @@
+﻿@using Censio_CMS.Helpers;
+<ul class="sidebar-nav">
+    @if (SessionHelper.GetObjectFromJson<List<Censio_CMS.Models.MenuModel>>(Context.Session, "Menudata") != null)
+    {
+        var MenuMaster = (List<Censio_CMS.Models.MenuModel>)(IEnumerable<Censio_CMS.Models.MenuModel>)SessionHelper.GetObjectFromJson<List<Censio_CMS.Models.MenuModel>>(Context.Session, "Menudata");
+
+        var data = MenuMaster.Where(x => x.Status == "A");
+        var groupByMenu = data.GroupBy(x => x.MainMenuName).ToList();
+
+
+        foreach (var MenuList in groupByMenu)
+        {
+            <li class="main">
+                <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-leaf sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">@MenuList.Key</span></a>
+                <ul>
+
+                    @foreach (var SubMenuList in MenuList.OrderBy(x => x.Sequence))
+                    {
+                        <li>
+                            <a href="@Url.Action(@SubMenuList.ActionName, @SubMenuList.ControllerName)"><i @*class="material-icons"*@ class="fa fa-long-arrow-right fa-fw"></i><span class="hide-menu" style="color: black; border-color:black;">@SubMenuList.SubMenuName</span></a>
+                        </li>
+                    }
+
+                </ul>
+            </li>
+        }
+    }
+</ul>
+<!-- END Sidebar Navigation -->

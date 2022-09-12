@@ -1,0 +1,64 @@
+﻿
+@{ var hrefURL = Censio_CMS.Startup.GethrefURL();}
+@model IEnumerable<Censio_CMS.Models.SubliminalMeasurement1Model>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="block full">
+    <div class="block-title">
+        <h2><strong> @ViewBag.PageName</strong> </h2>
+    </div>
+    <div class="table-responsive">
+
+        <button type="button" onclick="location.href='@Url.Action("Create", "SubliminalMeasurement1")'" class="btn btn-sm btn-primary"><i class="fa fa-plus"></i>Add</button>
+        <table id="example-datatable" class="table table-vcenter table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Id</th>
+                    <th class="text-center">Game Name</th>
+                    <th class="text-center">Behavior Element</th>
+                    <th class="text-center">Subliminal MeasurementName</th>
+                    <th class="text-center">Behavior Score</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Date and Time</th>
+                    <th class="text-center">Actions</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.IdSubliminalMeasurement1)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.GameName)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.BehaviorElement)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.SubliminalMeasurementName)</td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.BehaviorScore)</td>
+                       
+
+                        @if (item.Status == "A")
+                        {
+                            <td class="text-center">Active</td>
+                        }
+                        else
+                        {
+                            <td class="text-center"> DeActive</td>
+                        }
+
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.UpdatedDateTime)</td>
+                        <td class="text-center">
+                            <div class="btn-group">
+                                @Html.ActionLink("Edit", "Edit", new { id = item.IdSubliminalMeasurement1 }, new { @title = "Edit", @class = "glyphicon glyphicon-pencil" })
+                                @*<a href="javascript:void(0)" onclick="GetAddEdit(@item.Id_Industry);" data-toggle="tooltip" title="Edit" class="btn btn-effect-ripple btn-xs btn-success"><i class="material-icons">create</i></a>*@
+
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/AppJavascript/SubliminalMeasurement1.js"></script>
